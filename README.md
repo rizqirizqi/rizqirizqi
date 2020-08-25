@@ -6,7 +6,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev)
 - 🌐 Visit my website [mgsrizqi.com](https://mgsrizqi.com)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/rizqirizqi/rizqirizqi/issues)
 
 <hr>
 
