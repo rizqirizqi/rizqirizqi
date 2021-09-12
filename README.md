@@ -4,7 +4,6 @@
 
 I am currently working as a Front End Engineer at Bukalapak. I majored in Computer Science at the University of Indonesia. My passion is on web development and motion graphic design. In recent years, I have been doing some projects and freelancing in those fields. I always seek for improvements on something I love. The good thing is, I love to write lines of code. Whether to build something useful and beautiful at the same time or just tinkering around with something interesting to make it more effective and efficient.
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev)
 - 🌐 Visit my website [mgsrizqi.com](https://mgsrizqi.com)
 - 💬 Ask me about anything [here](https://github.com/rizqirizqi/rizqirizqi/issues)
 
@@ -32,12 +31,13 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 <p align="center">
   <details align="center">
     <summary>Find me on the internet!</summary>
-    <br>
-    <a href="https://behance.net/rizqirizqi" target="_blank">Behance</a>
-    <a href="https://codepen.io/rizqirizqi" target="_blank">Codepen</a>
-    <a href="https://instagram.com/rizqirizqi" target="_blank">Instagram</a>
-    <a href="https://twitter.com/rizqirizqi" target="_blank">Twitter</a>
-    <a href="https://youtube.com/rizqirizqi" target="_blank">Youtube</a>
+    <br/>
+    <a href="https://behance.net/rizqirizqi" target="_blank">Behance</a><br/>
+    <a href="https://codepen.io/rizqirizqi" target="_blank">Codepen</a><br/>
+    <a href="https://instagram.com/rizqirizqi" target="_blank">Instagram</a><br/>
+    <a href="https://linkedin.com/in/mgsrizqi" target="_blank">Linkedin</a><br/>
+    <a href="https://twitter.com/rizqirizqi" target="_blank">Twitter</a><br/>
+    <a href="https://youtube.com/rizqirizqi" target="_blank">Youtube</a><br/>
   </details>
 
   <p align="center">
