@@ -34,7 +34,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
     <br/>
     <a href="https://behance.net/rizqirizqi" target="_blank">Behance</a><br/>
     <a href="https://codepen.io/rizqirizqi" target="_blank">Codepen</a><br/>
-    <a href="https://instagram.com/rizqirizqi" target="_blank">Instagram</a><br/>
+    <a href="https://instagram.com/mgsrizqi" target="_blank">Instagram</a><br/>
     <a href="https://linkedin.com/in/mgsrizqi" target="_blank">Linkedin</a><br/>
     <a href="https://twitter.com/rizqirizqi" target="_blank">Twitter</a><br/>
     <a href="https://youtube.com/rizqirizqi" target="_blank">Youtube</a><br/>
