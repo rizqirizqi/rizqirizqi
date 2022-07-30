@@ -28,7 +28,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 
 <hr>
 
-<p align="center">
+<div align="center">
   <details align="center">
     <summary>Find me on the internet!</summary>
     <br/>
@@ -43,5 +43,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
   <p align="center">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rizqirizqi.visitor-badge">
   </p>
-</p>
+  
+  <a href="https://github.com/sponsors/rizqirizqi" target="_blank">Sponsor Rizqi's Work</a><br/>
+</div>
 
