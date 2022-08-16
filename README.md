@@ -2,7 +2,7 @@
 
 ### Mgs. M. Rizqi. Fadhlurrahman
 
-I am currently working as a Front End Engineer at Bukalapak. I majored in Computer Science at the University of Indonesia. My passion is on web development and motion graphic design. In recent years, I have been doing some projects and freelancing in those fields. I always seek for improvements on something I love. The good thing is, I love to write lines of code. Whether to build something useful and beautiful at the same time or just tinkering around with something interesting to make it more effective and efficient.
+I am currently working as a Front End Engineer at Bukalapak. I majored in Computer Science at the University of Indonesia. My passion is web development and motion graphic design. In recent years, I have been doing some projects and freelancing in those fields. I am constantly looking for ways to improve something I love. The good thing is, I love to write lines of code. Whether to build something valuable and beautiful simultaneously or just tinker around with something interesting to make it more effective and efficient.
 
 - 🌐 Visit my website [mgsrizqi.com](https://mgsrizqi.com)
 - 💬 Ask me about anything [here](https://github.com/rizqirizqi/rizqirizqi/issues)
@@ -16,6 +16,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
