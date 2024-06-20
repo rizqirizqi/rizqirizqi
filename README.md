@@ -40,10 +40,6 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
     <a href="https://twitter.com/rizqirizqi" target="_blank">Twitter</a><br/>
     <a href="https://youtube.com/rizqirizqi" target="_blank">Youtube</a><br/>
   </details>
-
-  <p align="center">
-    <img align="center" src="https://vbr.wocr.tk/badge?page_id=rizqirizqi.visitor-badge">
-  </p>
   
   <a href="https://github.com/sponsors/rizqirizqi" target="_blank">Sponsor Rizqi's Work</a><br/>
 </div>
