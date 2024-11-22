@@ -4,9 +4,6 @@
 
 I am currently working as a Front End Engineer at Bukalapak. I majored in Computer Science at the University of Indonesia. My passion is web development and motion graphic design. In recent years, I have been doing some projects and freelancing in those fields. I am constantly looking for ways to improve something I love. The good thing is, I love to write lines of code. Whether to build something valuable and beautiful simultaneously or just tinker around with something interesting to make it more effective and efficient.
 
-- 🌐 Visit my website [mgsrizqi.com](https://mgsrizqi.com)
-- 💬 Ask me about anything [here](https://github.com/rizqirizqi/rizqirizqi/issues)
-
 <hr>
 
 <h4 align="center">Languages and Tools</h4>
@@ -24,23 +21,23 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizqirizqi&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=DDDDDD&bg_color=42657A"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rizqirizqi&show_icons=true&theme=vue-dark&include_all_commits=true" alt="Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqirizqi&theme=vue-dark&mode=weekly&card_width=467" alt="Github Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mgsrizqi&show_icons=true&theme=vue-dark&display_format=percent&custom_title=Language%20Stats%20(last%207%20lays)" alt="Language Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rizqirizqi&theme=algolia&column=5" alt="Github Trophy"/>
 </p>
 
 <hr>
 
 <div align="center">
-  <details align="center">
-    <summary>Find me on the internet!</summary>
-    <br/>
-    <a href="https://behance.net/rizqirizqi" target="_blank">Behance</a><br/>
-    <a href="https://codepen.io/rizqirizqi" target="_blank">Codepen</a><br/>
-    <a href="https://instagram.com/mgsrizqi" target="_blank">Instagram</a><br/>
-    <a href="https://linkedin.com/in/mgsrizqi" target="_blank">Linkedin</a><br/>
-    <a href="https://twitter.com/rizqirizqi" target="_blank">Twitter</a><br/>
-    <a href="https://youtube.com/rizqirizqi" target="_blank">Youtube</a><br/>
-  </details>
-  
-  <a href="https://github.com/sponsors/rizqirizqi" target="_blank">Sponsor Rizqi's Work</a><br/>
+  <a href="https://github.com/sponsors/rizqirizqi" target="_blank"><img src="https://img.shields.io/badge/sponsor%20rizqi-3DA47A?style=for-the-badge"/></a><br/>
+  <br/>
+  <br/>
+  <a href="https://behance.net/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/4346fcf6-9c9f-43b8-ad18-aa196967d164" width="32" height="32"/></a>
+  <a href="https://codepen.io/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/acbb0683-ebea-4921-a0f5-df4ba5f389f2" width="32" height="32"/></a>
+  <a href="https://instagram.com/mgsrizqi" target="_blank"><img src="https://github.com/user-attachments/assets/74a5ebe1-e745-4679-afa9-4e280020c774" width="32" height="32"/></a>
+  <a href="https://linkedin.com/in/mgsrizqi" target="_blank"><img src="https://github.com/user-attachments/assets/e039e738-bee2-4017-914e-57d4cb0baf6d" width="32" height="32"/></a>
+  <a href="https://x/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/f6f04f2f-8b93-4ef5-ad08-f9f6fc318de2" width="32" height="32"/></a>
+  <a href="https://youtube.com/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/bcdf7e79-68e8-4061-93c7-7cca2ff4138a" width="32" height="32"/></a>
 </div>
 
