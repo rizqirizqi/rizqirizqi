@@ -26,7 +26,7 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizqirizqi&show_icons=true&theme=vue-dark&include_all_commits=true" alt="Github Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqirizqi&theme=vue-dark&mode=weekly&card_width=467" alt="Github Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mgsrizqi&show_icons=true&theme=vue-dark&display_format=percent&custom_title=Language%20Stats%20(last%207%20lays)" alt="Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mgsrizqi&show_icons=true&theme=vue-dark&display_format=percent&layout=compact&custom_title=Language%20Stats" alt="Language Stats"/>
   <img src="https://github-profile-trophy.vercel.app/?username=rizqirizqi&theme=algolia&column=5" alt="Github Trophy"/>
 </p>
 
