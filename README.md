@@ -25,10 +25,13 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizqirizqi&show_icons=true&theme=vue-dark&include_all_commits=true" alt="Github Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=rizqirizqi&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Github Stats"/>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqirizqi&theme=vue-dark&mode=weekly&card_width=467&v=1" alt="Github Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mgsrizqi&show_icons=true&theme=vue-dark&display_format=percent&layout=compact&custom_title=Language&v=1" alt="Language"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rizqirizqi&theme=algolia&column=5" alt="Github Trophy"/>
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=mgsrizqi&layout=compact&langs_count=20&theme=vue-dark" alt="Wakatime" />
+  <br />
+  <img src="https://trophy.ryglcloud.net/?username=rizqirizqi&theme=algolia&column=5" alt="Github Trophy"/>
 </p>
 
 <hr>
