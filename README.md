@@ -2,34 +2,50 @@
 
 ### Mgs. M. Rizqi. Fadhlurrahman
 
-I am currently working as a Front End Engineer at Bukalapak. I majored in Computer Science at the University of Indonesia. My passion is web development and motion graphic design. In recent years, I have been doing some projects and freelancing in those fields. I am constantly looking for ways to improve something I love. The good thing is, I love to write lines of code. Whether to build something valuable and beautiful simultaneously or just tinker around with something interesting to make it more effective and efficient.
+I’m currently building [**Rasylva.id**](https://rasylva.id/) and [**Webstorio**](https://webstorio.com/), focusing on turning ideas into maintainable, scalable, and well-crafted web products.
+
+I have 10+ years of experience in web development and software engineering, including 8.5 years at Bukalapak, where I grew from a fresh graduate Frontend Engineer into a Senior Software Engineer. During that time, I contributed to Mitra, B2B, financing, and payment platforms used by millions of users. My work covered user activation, wallets, top-up, virtual products, wholesale, payments, QRIS, Kirim Uang, and device-based payments (EDC & Soundbox), helping drive IDR trillions of GMV. I worked across frontend architecture, system design, performance, SEO, CI/CD, and security.
+
+I enjoy operating at the intersection of engineering, product, and operations. This includes leading technical initiatives, writing documentations, mentoring engineers, handling critical incidents, and unblocking teams as systems grow in scale and complexity.
+
+I also have been doing some web development projects for my clients. I always seek for improvements on something I love. The good thing is, I love to write lines of code. Whether to build something useful and beautiful at the same time or just tinkering around with something interesting to make it more effective and efficient.
 
 <hr>
 
 <h4 align="center">Languages and Tools</h4>
 
 <p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/react" alt="React"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/sass" alt="Sass"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/pwa" alt="PWA"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/ruby" alt="Ruby"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/rubyonrails" alt="Ruby on Rails"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/php" alt="PHP"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/laravel" alt="Laravel"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/python" alt="Python"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/unity" alt="Unity"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/cursor" alt="Cursor"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/supabase" alt="Supabase"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/redis" alt="Redis"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/docker" alt="Docker"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes"></code>
+  <code><img height="20" src="https://cdn.simpleicons.org/figma" alt="Figma"></code>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rizqirizqi&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Github Stats"/>
+  <img src="./profile/stats.svg" alt="Github Stats"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqirizqi&theme=vue-dark&mode=weekly&card_width=467&v=1" alt="Github Streak Stats"/>
   <br />
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=mgsrizqi&layout=compact&langs_count=20&theme=vue-dark" alt="Wakatime" />
+  <img src="./profile/wakatime.svg" alt="Wakatime" />
   <br />
   <img src="https://trophy.ryglcloud.net/?username=rizqirizqi&theme=algolia&column=5" alt="Github Trophy"/>
 </p>
@@ -46,5 +62,22 @@ I am currently working as a Front End Engineer at Bukalapak. I majored in Comput
   <a href="https://linkedin.com/in/mgsrizqi" target="_blank"><img src="https://github.com/user-attachments/assets/e039e738-bee2-4017-914e-57d4cb0baf6d" width="32" height="32"/></a>
   <a href="https://x/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/f6f04f2f-8b93-4ef5-ad08-f9f6fc318de2" width="32" height="32"/></a>
   <a href="https://youtube.com/rizqirizqi" target="_blank"><img src="https://github.com/user-attachments/assets/bcdf7e79-68e8-4061-93c7-7cca2ff4138a" width="32" height="32"/></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h4>Build a website with AI. Keep it maintainable forever.</h4>
+  <p>
+    <a href="https://webstorio.com/" target="_blank">
+      <img src="https://webstorio.com/images/meta-1200x630.png" alt="Webstorio — AI-Powered Website Builder" width="600" />
+    </a>
+  </p>
+  <p>
+    <a href="https://webstorio.com/" target="_blank"><img src="https://img.shields.io/badge/Try%20Webstorio-000000?style=for-the-badge" alt="Try Webstorio" /></a>
+  </p>
+  <p>
+    <a href="https://webstorio.com/">webstorio.com</a> — AI website builder with CMS, store, forms, auth, analytics &amp; hosting built in.
+  </p>
 </div>
 
