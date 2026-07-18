@@ -41,7 +41,7 @@ I also have been doing some web development projects for my clients. I always se
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Github Stats"/>
+  <img src="./profile/stats.svg?v=2" alt="Github Stats"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqirizqi&theme=vue-dark&mode=weekly&card_width=467&v=1" alt="Github Streak Stats"/>
   <br />
