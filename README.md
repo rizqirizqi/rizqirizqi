@@ -76,8 +76,5 @@ I also have been doing some web development projects for my clients. I always se
   <p>
     <a href="https://webstorio.com/" target="_blank"><img src="https://img.shields.io/badge/Try%20Webstorio-000000?style=for-the-badge" alt="Try Webstorio" /></a>
   </p>
-  <p>
-    <a href="https://webstorio.com/">webstorio.com</a> — AI website builder with CMS, store, forms, auth, analytics &amp; hosting built in.
-  </p>
 </div>
 
