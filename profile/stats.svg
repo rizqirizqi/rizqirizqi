@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mgs. M. Rizqi Fadhlurrahman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 52, Total Commits  : 3145, Total PRs: 112, Total PRs Merged: 97, Merged PRs Percentage: 86.61, Total PRs Reviewed: 46, Total Issues: 21, PRs Commented: 723, PRs Reviewed: 690, Issues Commented: 24, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 52, Total Commits  : 3197, Total PRs: 115, Total PRs Merged: 100, Merged PRs Percentage: 86.96, Total PRs Reviewed: 51, Total Issues: 21, PRs Commented: 729, PRs Reviewed: 695, Issues Commented: 24, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.67342657780833;
+        stroke-dashoffset: 74.85327474778288;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >3.1k</text>
+      >3.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >112</text>
+      >115</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >97</text>
+      >100</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >86.61 %</text>
+      >86.96 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >46</text>
+      >51</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -267,7 +267,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >723</text></a>
+      >729</text></a>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3Arizqirizqi+-author%3Arizqirizqi&amp;type=pullrequests">
@@ -282,7 +282,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >690</text></a>
+      >695</text></a>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Arizqirizqi+-author%3Arizqirizqi&amp;type=issues">
