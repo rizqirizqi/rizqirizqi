@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mgs. M. Rizqi Fadhlurrahman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 52, Total Commits  : 3307, Total PRs: 115, Total PRs Merged: 100, Merged PRs Percentage: 86.96, Total PRs Reviewed: 38, Total Issues: 21, PRs Commented: 730, PRs Reviewed: 696, Issues Commented: 24, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 52, Total Commits  : 3331, Total PRs: 115, Total PRs Merged: 100, Merged PRs Percentage: 86.96, Total PRs Reviewed: 38, Total Issues: 21, PRs Commented: 730, PRs Reviewed: 696, Issues Commented: 24, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.51799197961807;
+        stroke-dashoffset: 74.4481668478025;
       }
     }
   
