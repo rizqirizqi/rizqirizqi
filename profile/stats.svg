@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mgs. M. Rizqi Fadhlurrahman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 53, Total Commits  : 3922, Total PRs: 119, Total PRs Merged: 102, Merged PRs Percentage: 85.71, Total PRs Reviewed: 141, Total Issues: 25, PRs Commented: 843, PRs Reviewed: 806, Issues Commented: 24, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 53, Total Commits  : 3946, Total PRs: 122, Total PRs Merged: 105, Merged PRs Percentage: 86.07, Total PRs Reviewed: 141, Total Issues: 25, PRs Commented: 843, PRs Reviewed: 806, Issues Commented: 24, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.62807553471946;
+        stroke-dashoffset: 70.1965560578512;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >119</text>
+      >122</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >102</text>
+      >105</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >85.71 %</text>
+      >86.07 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -319,7 +319,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >22</text>
+      >21</text>
     </g>
   </g>
     </svg>
