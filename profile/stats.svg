@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mgs. M. Rizqi Fadhlurrahman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 53, Total Commits  : 3965, Total PRs: 122, Total PRs Merged: 105, Merged PRs Percentage: 86.07, Total PRs Reviewed: 153, Total Issues: 25, PRs Commented: 855, PRs Reviewed: 818, Issues Commented: 24, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 53, Total Commits  : 3999, Total PRs: 122, Total PRs Merged: 105, Merged PRs Percentage: 86.07, Total PRs Reviewed: 177, Total Issues: 26, PRs Commented: 880, PRs Reviewed: 842, Issues Commented: 24, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.16099729342123;
+        stroke-dashoffset: 69.81216624411859;
       }
     }
   
@@ -244,7 +244,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >153</text>
+      >177</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >25</text>
+      >26</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Arizqirizqi+-author%3Arizqirizqi&amp;type=pullrequests">
@@ -274,7 +274,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >855</text></a>
+      >880</text></a>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3Arizqirizqi+-author%3Arizqirizqi&amp;type=pullrequests">
@@ -289,7 +289,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >818</text></a>
+      >842</text></a>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Arizqirizqi+-author%3Arizqirizqi&amp;type=issues">
